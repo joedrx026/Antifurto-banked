@@ -1,2 +1,2 @@
 # Antifurto-banked
-Serviços anti furtos, que promete a segurança de seus dado pessoais 
+Serviços anti furtos, que promete a segurança de seus dados pessoais 
